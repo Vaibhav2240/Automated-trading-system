@@ -1,0 +1,21 @@
+# === Core Data Processing & Math ===
+numpy>=1.26.0
+pandas>=2.1.0
+scipy>=1.11.0
+
+# === The Brain (Hidden Markov Model) ===
+scikit-learn>=1.3.0
+hmmlearn>=0.3.3
+
+# === Broker Connection & Live Streaming ===
+ib-insync>=0.9.86
+numpy>=1.24.0
+hmmlearn>=0.3.0
+joblib>=1.2.0
+
+# === Visual Dashboard ===
+streamlit>=1.28.0
+
+# === System Configuration ===
+PyYAML>=6.0.1
+python-dotenv>=1.0.0
